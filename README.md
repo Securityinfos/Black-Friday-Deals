@@ -1,5 +1,5 @@
-# Black-Friday-Deals 2020
-Security Black Friday Deals 
+# Black Friday/Cyber Monday Deals 2020
+Security Black Friday/Cyber Monday Deals 
 
 SOFTWARES:
 -----------------------------------------------------------------------------------------
@@ -37,3 +37,13 @@ COURSES/TRAININGS:
  - Yubico 
    Multiple discounts on Yubikeys
    https://www.yubico.com/ie/store/black-friday/
+ 
+ - HAK5
+   Multiple discounts on HAK5 products
+   https://shop.hak5.org/
+
+ BOOKS
+-----------------------------------------------------------------------------------------
+ - Apress 
+   All Apress books at $6.999
+   https://www.apress.com/us/shop/cybermonday-sale?token=cyber20ap&utm_medium=social&utm_source=twitter&utm_campaign=3_jpp1963_social_tw_usd_cyber20ap&utm_content=stw_en_textlink_18112020
