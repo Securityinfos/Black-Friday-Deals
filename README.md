@@ -27,6 +27,11 @@ COURSES/TRAININGS:
   40% on subscriptions
   https://www.pluralsight.com/offer/2020/bf-cm-40-off
   
+- React Security
+  Advanced React Security Patterns
+  70% Off All Packages
+  https://reactsecurity.io/advanced-react-security-patterns#packages
+   
  HARDWARE
 -----------------------------------------------------------------------------------------
  - Yubico 
