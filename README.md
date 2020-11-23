@@ -20,7 +20,7 @@ COURSES/TRAININGS:
   https://t.co/hk5gNuwpPJ?amp=1
 
 - Udemy 
-  Several courses at 9,99 till 27th November
+  Several courses at €9,99 till 27th November
   https://www.udemy.com/
 
 - Pluralsight
