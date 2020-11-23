@@ -23,5 +23,12 @@ COURSES/TRAININGS:
   Several courses at 9,99 till 27th November
   https://www.udemy.com/
 
-
-
+- Pluralsight
+  40% on subscriptions
+  https://www.pluralsight.com/offer/2020/bf-cm-40-off
+  
+ HARDWARE
+-----------------------------------------------------------------------------------------
+ - Yubico 
+   Multiple discounts on Yubikeys
+   https://www.yubico.com/ie/store/black-friday/
