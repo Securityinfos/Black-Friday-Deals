@@ -31,7 +31,19 @@ COURSES/TRAININGS:
   Advanced React Security Patterns
   70% Off All Packages
   https://reactsecurity.io/advanced-react-security-patterns#packages
-   
+  
+- Offensive Security 
+  Get the course, an exam attempt, and 30, 60, or 90 days of lab time starting at $999
+  Offer ends Dec 31, 2020
+  https://t.co/8grvAyw4jP?amp=1
+  
+- OSINTion
+  USE CODE 2020BF1337OSINT for 33% off
+  Schedule located here: https://t.co/3gUi7PmyWu?amp=1
+  
+- 7ASecurity
+  40% off any self-paced #hacking course when you use code BFCM40
+  https://t.co/x2Wf9U5hfU?amp=1
  HARDWARE
 -----------------------------------------------------------------------------------------
  - Yubico 
