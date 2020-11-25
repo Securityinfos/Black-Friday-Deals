@@ -97,6 +97,13 @@ COURSES/TRAININGS:
   50% on courses using code BF50
   https://www.icsi.co.uk/pages/black-friday-offer
   
+- OSINT Combine Academy
+  40% off ALL courses until Sunday. Use the code BLACKFRIDAY at checkout
+  Advanced OSINT Course
+  OSINT Fundamentals + Social Media Course
+  OSINT Area & Event Awareness Course
+  https://t.co/9amWOrqgWr?amp=1
+  
 - Ine.com
   Save 40% on 1 year INE subscriptions through November 30th. Use coupon code BF40 at checkout.
   https://ine.com/pages/black-friday-2020
