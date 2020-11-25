@@ -158,6 +158,10 @@ COURSES/TRAININGS:
 
  BOOKS
 -----------------------------------------------------------------------------------------
+ - Nostarch
+   33.7% off, free domestic shipping, interrnational shipping discounted 20% -- and we have POC volume 3 on the way!
+   https://nostarch.com/catalog
+   
  - Apress 
    All Apress books at $6.99
    https://www.apress.com/us/shop/cybermonday-sale?token=cyber20ap&utm_medium=social&utm_source=twitter&utm_campaign=3_jpp1963_social_tw_usd_cyber20ap&utm_content=stw_en_textlink_18112020
