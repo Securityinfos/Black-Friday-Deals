@@ -10,7 +10,12 @@ SOFTWARES:
 - Tenable Nessus PRO 
   50% discount till 30th November 
   https://store.tenable.com/1479/purl-takehalf?x-promotion=TakeHalf
-
+  
+- Passware
+  The campaign includes all new product licenses as well as
+  Passware Online Training. Valid until Nov 30th.
+  20% DISCOUNT WITH CODE CYBERMONDAY
+  https://www.passware.com/
 
 COURSES/TRAININGS:
 -----------------------------------------------------------------------------------------
