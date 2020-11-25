@@ -26,10 +26,21 @@ SOFTWARES:
   20% DISCOUNT WITH CODE CYBERMONDAY
   https://www.passware.com/
   
+- NordVPN
+  68% off + 3 months free
+  https://nordvpn.com/black-friday/
+  
 - Kaspersky
   Up to 57% OFF Top-rated Kaspersky Security Software
   https://usa.kaspersky.com/home-security/v3
   https://usa.kaspersky.com/total-security/v3 
+  
+- Maltego
+  TBA
+  
+- Protonmail
+  50% discount
+  https://protonmail.com/blog/black-friday-2020/
 
 - Enpass Password Manager
   Get the Enpass Password Manager for $8.99 (reg. $36) with promo code BFSAVE40
@@ -104,12 +115,17 @@ COURSES/TRAININGS:
 - 7ASecurity
   40% off any self-paced #hacking course when you use code BFCM40
   https://t.co/x2Wf9U5hfU?amp=1
+  
  HARDWARE
 -----------------------------------------------------------------------------------------
  - Yubico 
    Multiple discounts on Yubikeys
    https://www.yubico.com/ie/store/black-friday/
  
+ - Soslutions (Raspberry deals)
+   Multiple Deals on Raspberrys
+   https://www.sossolutions.nl/black-friday-2020
+   
  - HAK5
    Multiple discounts on HAK5 products
    https://shop.hak5.org/
