@@ -16,6 +16,11 @@ SOFTWARES:
   Passware Online Training. Valid until Nov 30th.
   20% DISCOUNT WITH CODE CYBERMONDAY
   https://www.passware.com/
+  
+- Aspnetzero
+  Up to 50% OFF on all licenses. Get the licenses for a once-only price as part of the Black Friday special offer.
+  https://aspnetzero.com/Pricing
+  
 
 COURSES/TRAININGS:
 -----------------------------------------------------------------------------------------
@@ -24,6 +29,10 @@ COURSES/TRAININGS:
   That's $10 per course. 
   https://t.co/hk5gNuwpPJ?amp=1
 
+- Zero2Automated
+  20% off Zero2Automated reverse engineering courses
+  https://courses.zero2auto.com/beginner-bundle?coupon=BLACKFRIDAYSALES
+  
 - Udemy 
   Several courses at €9,99 till 27th November
   https://www.udemy.com/
