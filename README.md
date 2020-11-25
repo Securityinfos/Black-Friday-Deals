@@ -129,6 +129,10 @@ COURSES/TRAININGS:
  - HAK5
    Multiple discounts on HAK5 products
    https://shop.hak5.org/
+   
+ - Seedstudio
+   50% off on 80 products
+   https://www.seeedstudio.com/thanksgiving_50_off_sale.html
 
  BOOKS
 -----------------------------------------------------------------------------------------
