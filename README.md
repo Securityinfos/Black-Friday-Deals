@@ -3,6 +3,10 @@ Security Black Friday/Cyber Monday Deals
 
 SOFTWARES:
 -----------------------------------------------------------------------------------------
+- Pulsedive
+  Apply promo code "TRYFOR5"
+  https://pulsedive.com/purchase/pro
+
 - Burp Bounty
   20% Discount with the code CYBERBOUNTY 
   https://t.co/I6mxQ7K270?amp=1
