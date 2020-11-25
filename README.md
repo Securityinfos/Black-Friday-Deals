@@ -7,10 +7,6 @@ SOFTWARES:
   20% Discount with the code CYBERBOUNTY 
   https://t.co/I6mxQ7K270?amp=1
   
-- Letsdefend
-  Use coupon code "BLCKFRDY" and get 50% discount on http://letsdefend.io
-  The coupon is valid until 29.11.2020
-
 - Tenable Nessus PRO 
   50% discount till 30th November 
   https://store.tenable.com/1479/purl-takehalf?x-promotion=TakeHalf
@@ -21,6 +17,27 @@ SOFTWARES:
   20% DISCOUNT WITH CODE CYBERMONDAY
   https://www.passware.com/
   
+- Kaspersky
+  Up to 57% OFF Top-rated Kaspersky Security Software
+  https://usa.kaspersky.com/home-security/v3
+  https://usa.kaspersky.com/total-security/v3 
+
+- Enpass Password Manager
+  Get the Enpass Password Manager for $8.99 (reg. $36) with promo code BFSAVE40
+  
+- Sticky Password Premium
+  Lifetime Subscription for $23.99 (reg. $149) with promo code BFSAVE40
+  
+- Password Boss Premium
+  Lifetime Subscription (Unlimited Devices) for $20.99 (reg. $499) with promo code BFSAVE40
+  
+- Nordpass Manager
+  NordPass Password Manager: 1-Year Subscription for $17.99 (reg. $59) with promo code BFSAVE40
+  
+- Cyclonis Password Manager
+  Cyclonis Password Manager for Unlimited Devices: Lifetime Subscription for $17.40 (reg. $180) with promo code BFSAVE40
+  
+  
 - Aspnetzero
   Up to 50% OFF on all licenses. Get the licenses for a once-only price as part of the Black Friday special offer.
   https://aspnetzero.com/Pricing
@@ -28,6 +45,14 @@ SOFTWARES:
 
 COURSES/TRAININGS:
 -----------------------------------------------------------------------------------------
+- Letsdefend
+  Use coupon code "BLCKFRDY" and get 50% discount on http://letsdefend.io
+  The coupon is valid until 29.11.2020
+
+- Cover6solutions
+  Multiple Red & Blue courses discounted
+  https://www.cover6solutions.com/shop/
+  
 - The Cybermentor Udemy courses
   Code HALFOFF takes 50% off the Hacker Bundle through this weekend.  
   That's $10 per course. 
