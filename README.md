@@ -87,6 +87,10 @@ COURSES/TRAININGS:
  - Practical DevSecOps
    15% off
    https://www.practical-devsecops.com/black-friday/
+   
+ - Cybrary
+   70% off Cybrary Insider Pro
+   https://www.cybrary.it/
 
 - Cover6solutions
   Multiple Red & Blue courses discounted
@@ -159,6 +163,10 @@ COURSES/TRAININGS:
  - Seedstudio
    50% off on 80 products
    https://www.seeedstudio.com/thanksgiving_50_off_sale.html
+   
+ - System76
+   Several discounts on laptops and desktops
+   https://system76.com/specials
 
  BOOKS
 -----------------------------------------------------------------------------------------
