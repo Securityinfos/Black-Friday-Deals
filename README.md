@@ -6,6 +6,10 @@ SOFTWARES:
 - Burp Bounty
   20% Discount with the code CYBERBOUNTY 
   https://t.co/I6mxQ7K270?amp=1
+  
+- Letsdefend
+  Use coupon code "BLCKFRDY" and get 50% discount on http://letsdefend.io
+  The coupon is valid until 29.11.2020
 
 - Tenable Nessus PRO 
   50% discount till 30th November 
