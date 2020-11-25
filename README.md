@@ -4,7 +4,7 @@ Security Black Friday/Cyber Monday Deals
 SOFTWARES:
 -----------------------------------------------------------------------------------------
 - Pulsedive
-  Apply promo code "TRYFOR5"
+  Apply promo code "TRYFOR5" valid until 30th November
   https://pulsedive.com/purchase/pro
 
 - Burp Bounty
