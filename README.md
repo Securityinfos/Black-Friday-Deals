@@ -167,6 +167,14 @@ COURSES/TRAININGS:
  - System76
    Several discounts on laptops and desktops
    https://system76.com/specials
+   
+ ACCESSORIES
+-----------------------------------------------------------------------------------------
+  - Silent Pocket
+    Faraday bags and accessories 
+    up to 40% off + free hat, stickers, & domestic shipping
+    on all orders
+    Sitewide 15% off discount code: supersale
 
  BOOKS
 -----------------------------------------------------------------------------------------
