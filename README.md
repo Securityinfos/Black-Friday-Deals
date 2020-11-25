@@ -9,8 +9,17 @@ SOFTWARES:
   
 - Tenable Nessus PRO 
   50% discount till 30th November 
-  https://store.tenable.com/1479/purl-takehalf?x-promotion=TakeHalf
+  https://store.tenable.com/1479/purl-takehalf?x-promotion=TakeHalf 
   
+ - Sn1per (XeroSecurity)
+   https://xerosecurity.com/wordpress/black-friday-sale/ 
+
+- Hitman Pro
+  HMP 1PC 2Y: https://shop.hitmanpro.com/747/uurl-bvzhur942h
+  HMP 3PC 2Y: https://shop.hitmanpro.com/747/uurl-kc4c1k57ug
+  HMPA 1PC 2Y: https://shop.hitmanpro.com/747/uurl-71di5otchp
+  HMPA 3PC 2Y: https://shop.hitmanpro.com/747/uurl-bkqgr6k5z6
+
 - Passware
   The campaign includes all new product licenses as well as
   Passware Online Training. Valid until Nov 30th.
@@ -61,6 +70,14 @@ COURSES/TRAININGS:
 - Zero2Automated
   20% off Zero2Automated reverse engineering courses
   https://courses.zero2auto.com/beginner-bundle?coupon=BLACKFRIDAYSALES
+  
+- ICSI.UK (International CyberSecurity Institute) 
+  50% on courses using code BF50
+  https://www.icsi.co.uk/pages/black-friday-offer
+  
+- Ine.com
+  Save 40% on 1 year INE subscriptions through November 30th. Use coupon code BF40 at checkout.
+  https://ine.com/pages/black-friday-2020
   
 - Udemy 
   Several courses at €9,99 till 27th November
