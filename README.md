@@ -83,6 +83,10 @@ COURSES/TRAININGS:
    2 8-Hour Course Bundle (Both Business AND People OSINT)
    3 Course Bundle (All Available Courses)
    1 8-Hour and OPSEC Course Bundle (Either Business OR People OSINT AND OPSEC)
+   
+ - Practical DevSecOps
+   15% off
+   https://www.practical-devsecops.com/black-friday/
 
 - Cover6solutions
   Multiple Red & Blue courses discounted
