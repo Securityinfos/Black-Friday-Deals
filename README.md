@@ -3,6 +3,12 @@ Security Black Friday/Cyber Monday Deals
 
 SOFTWARES:
 -----------------------------------------------------------------------------------------
+- Pulsedive Pro
+  $5 for 1 month with the code TRYFOR5
+  Valid 11/25 - 12/1
+  https://pulsedive.com/about/pro
+  https://twitter.com/pulsedive/status/1331653027346968577
+  
 - Burp Bounty
   20% Discount with the code CYBERBOUNTY 
   https://t.co/I6mxQ7K270?amp=1
