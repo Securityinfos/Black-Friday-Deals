@@ -69,6 +69,17 @@ COURSES/TRAININGS:
   Use coupon code "BLCKFRDY" and get 50% discount on http://letsdefend.io
   The coupon is valid until 29.11.2020
 
+- SANS
+  350 Macbook Air, Microsoft Surface Pro 7 or $350 off with any 5 or 6 day course (till December 9, 2020)
+  https://www.sans.org/specials/north-america/
+  
+- OSINTios
+  https://blackfriday.theosintion.com/
+  Different bundles in offer:
+   2 8-Hour Course Bundle (Both Business AND People OSINT)
+   3 Course Bundle (All Available Courses)
+   1 8-Hour and OPSEC Course Bundle (Either Business OR People OSINT AND OPSEC)
+
 - Cover6solutions
   Multiple Red & Blue courses discounted
   https://www.cover6solutions.com/shop/
