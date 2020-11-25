@@ -165,3 +165,8 @@ COURSES/TRAININGS:
  - Apress 
    All Apress books at $6.99
    https://www.apress.com/us/shop/cybermonday-sale?token=cyber20ap&utm_medium=social&utm_source=twitter&utm_campaign=3_jpp1963_social_tw_usd_cyber20ap&utm_content=stw_en_textlink_18112020
+
+ - Humblebundle
+   45% off a year of Humble Choice Premium ends 30th November
+   https://www.humblebundle.com/
+   
