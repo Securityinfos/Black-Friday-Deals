@@ -96,6 +96,11 @@ COURSES/TRAININGS:
   Multiple Red & Blue courses discounted
   https://www.cover6solutions.com/shop/
   
+  - DroneSec
+  67% off online using code DONOTSHAREBLACKFRI
+  20% off trainer-led using code BF20
+  https://training.dronesec.com/
+  
 - The Cybermentor Udemy courses
   Code HALFOFF takes 50% off the Hacker Bundle through this weekend.  
   That's $10 per course. 
