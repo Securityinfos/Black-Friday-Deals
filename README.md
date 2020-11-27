@@ -90,6 +90,11 @@ COURSES/TRAININGS:
   Various discount on courses
   https://news.cqureacademy.com/blackfriday
   
+- Tibsec Privesc courses
+  9,99 euro till 31st November
+  Windows: https://www.udemy.com/course/windows-privilege-escalation/?couponCode=BLACKFRIDAY2020
+  Linux:   https://www.udemy.com/course/linux-privilege-escalation/?couponCode=BLACKFRIDAY2020
+  
 - SANS
   350 Macbook Air, Microsoft Surface Pro 7 or $350 off with any 5 or 6 day course (till December 9, 2020)
   https://www.sans.org/specials/north-america/
