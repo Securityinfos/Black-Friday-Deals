@@ -79,6 +79,10 @@ PASSWORD MANAGERS:
 - Cyclonis Password Manager
   Cyclonis Password Manager for Unlimited Devices: Lifetime Subscription for $17.40 (reg. $180) with promo code BFSAVE40
   
+- Zoho Vault
+  $60 wallet credits
+  https://www.zoho.com/vault/promotions.html
+  
 
 COURSES/TRAININGS:
 -----------------------------------------------------------------------------------------
