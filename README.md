@@ -221,3 +221,8 @@ COURSES/TRAININGS:
    45% off a year of Humble Choice Premium ends 30th November
    https://www.humblebundle.com/
    
+ - Windows Kernel Proggramming & Windows System Programming Part 1  books (on leanpub)
+   14,95$ each, valid till 29th
+   https://leanpub.com/windowskernelprogramming/c/BlackFriday2020
+   https://leanpub.com/windows10systemprogramming/c/BlackFriday2020
+   
