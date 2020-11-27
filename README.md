@@ -198,6 +198,10 @@ COURSES/TRAININGS:
    Multiple discounts on HAK5 products
    https://shop.hak5.org/
    
+ - Droix 
+   Up to 50%
+   https://droix.net/pages/2020-black-friday-sale
+   
  - Seedstudio
    50% off on 80 products
    https://www.seeedstudio.com/thanksgiving_50_off_sale.html
