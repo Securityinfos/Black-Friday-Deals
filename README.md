@@ -186,6 +186,10 @@ COURSES/TRAININGS:
    Multiple discounts on Yubikeys
    https://www.yubico.com/ie/store/black-friday/
    
+ - LAB401
+   10% off store wide till 28th November
+   https://lab401.com/blogs/news/black-friday-cyber-monday-sale-10-store-wide
+   
  - Airspy
    30% off 
    https://airspy.com/
