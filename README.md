@@ -97,6 +97,9 @@ COURSES/TRAININGS:
   Various discount on courses
   https://news.cqureacademy.com/blackfriday
   
+- We Hack Purple
+  Get the Application Security Foundations program bundle, Alice and Bob Learn Application Security, a certificate of completion (when you're done) AND a 1:1 consult with Tanya   Janca, for $999 ($300 discount)
+  
 - Tibsec Privesc courses
   9,99 euro till 31st November
   Windows: https://www.udemy.com/course/windows-privilege-escalation/?couponCode=BLACKFRIDAY2020
