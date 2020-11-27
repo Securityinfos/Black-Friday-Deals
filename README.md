@@ -251,3 +251,14 @@ COURSES/TRAININGS:
    https://leanpub.com/windowskernelprogramming/c/BlackFriday2020
    https://leanpub.com/windows10systemprogramming/c/BlackFriday2020
    
+  OTHER LISTS   
+-----------------------------------------------------------------------------------------
+   Other awesome infosec people that are collecting lists with Blackfriday deals
+   
+   Dutchosintguy     https://github.com/Dutchosintguy/Blackfriday-Deals-2020
+   
+   0x90n             https://github.com/0x90n/InfoSec-Black-Friday
+
+   Instadoodledavid  https://github.com/instadoodledavid/Infosec-Deals-2020
+
+   Bleeping Computer https://www.bleepingcomputer.com/news/security/the-best-black-friday-2020-security-it-vpn-and-antivirus-deals/
