@@ -12,6 +12,10 @@ SOFTWARES:
   20% Discount with the code CYBERBOUNTY 
   https://t.co/I6mxQ7K270?amp=1
   
+- Sweetscape
+  30% off
+  https://sweetscape.com/store/
+  
 - Tenable Nessus PRO 
   50% discount till 30th November 
   https://store.tenable.com/1479/purl-takehalf?x-promotion=TakeHalf 
