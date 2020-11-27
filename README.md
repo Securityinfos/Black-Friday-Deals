@@ -3,6 +3,7 @@ Security Black Friday/Cyber Monday Deals
 
 SOFTWARES:
 -----------------------------------------------------------------------------------------
+
 - Pulsedive
   Apply promo code "TRYFOR5" valid until 30th November
   https://pulsedive.com/purchase/pro
@@ -46,7 +47,20 @@ SOFTWARES:
   50% discount
   https://protonmail.com/blog/black-friday-2020/
 
-- Enpass Password Manager
+  
+- Aspnetzero
+  Up to 50% OFF on all licenses. Get the licenses for a once-only price as part of the Black Friday special offer.
+  https://aspnetzero.com/Pricing
+  
+- Detectify 
+  20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
+  https://detectify.com/lp/black-friday-professional-plan-offer 
+  
+  
+PASSWORD MANAGERS:
+-----------------------------------------------------------------------------------------
+  
+  - Enpass Password Manager
   Get the Enpass Password Manager for $8.99 (reg. $36) with promo code BFSAVE40
   
 - Sticky Password Premium
@@ -60,11 +74,6 @@ SOFTWARES:
   
 - Cyclonis Password Manager
   Cyclonis Password Manager for Unlimited Devices: Lifetime Subscription for $17.40 (reg. $180) with promo code BFSAVE40
-  
-  
-- Aspnetzero
-  Up to 50% OFF on all licenses. Get the licenses for a once-only price as part of the Black Friday special offer.
-  https://aspnetzero.com/Pricing
   
 
 COURSES/TRAININGS:
