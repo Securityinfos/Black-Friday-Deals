@@ -12,6 +12,9 @@ SOFTWARES:
   20% Discount with the code CYBERBOUNTY 
   https://t.co/I6mxQ7K270?amp=1
   
+- WPSCAN
+  Coupon code BLACKFRIDAY2020 at http://wpscan.com for 25% off the first year on Starter and Pro accounts
+  
 - Sweetscape
   30% off
   https://sweetscape.com/store/
