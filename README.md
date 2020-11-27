@@ -186,6 +186,10 @@ COURSES/TRAININGS:
    Multiple discounts on Yubikeys
    https://www.yubico.com/ie/store/black-friday/
    
+ - Airspy
+   30% off 
+   https://airspy.com/
+   
  - RTL-SDR
    Various discounts on www.rtl-sdr.com/store 
    RTL-SDR Blog V3 Dongle with Dipole Antenna Set: $34.95 $32.95
