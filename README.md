@@ -186,6 +186,16 @@ COURSES/TRAININGS:
    Multiple discounts on Yubikeys
    https://www.yubico.com/ie/store/black-friday/
    
+ - RTL-SDR
+   Various discounts on www.rtl-sdr.com/store 
+   RTL-SDR Blog V3 Dongle with Dipole Antenna Set: $34.95 $32.95
+   RTL-SDR Blog V3 Dongle Only: $24.95 $22.95
+   QO-100 Bullseye TCXO LNB: $29.95 $24.95
+   Airspy YouLoop Passive Magnetic Loop Antenna: $34.95 $24.47 
+   FlightAware Prostick Plus: $29.95 $27.95
+   RTL-SDR Blog ADS-B Triple Filtered LNA: $39.95 $34.95
+   Metal Case Upgrade for SDRplay RSP1A: $24.95 $22.95
+   
  - Pi HUT (Raspberry deals)
    Up to 50% discount
    https://thepihut.com/collections/black-friday-2020-deals
