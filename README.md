@@ -173,6 +173,10 @@ COURSES/TRAININGS:
  - Yubico 
    Multiple discounts on Yubikeys
    https://www.yubico.com/ie/store/black-friday/
+   
+ - Pi HUT (Raspberry deals)
+   Up to 50% discount
+   https://thepihut.com/collections/black-friday-2020-deals
  
  - Soslutions (Raspberry deals)
    Multiple Deals on Raspberrys
