@@ -185,6 +185,10 @@ COURSES/TRAININGS:
  - Yubico 
    Multiple discounts on Yubikeys
    https://www.yubico.com/ie/store/black-friday/
+ 
+ - KSEC (Proxmark & Biohacking)
+   Free Merch with every order - 25% off @DangerousThings & @vivokey products - 10% off our RedTeam Tools - Free shipping on application orders
+   https://cyborg.ksecsolutions.com/black-friday-sale/
    
  - LAB401
    10% off store wide till 28th November
