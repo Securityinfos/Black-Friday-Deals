@@ -86,6 +86,10 @@ COURSES/TRAININGS:
   Use coupon code "BLCKFRDY" and get 50% discount on http://letsdefend.io
   The coupon is valid until 29.11.2020
 
+- CQURE
+  Various discount on courses
+  https://news.cqureacademy.com/blackfriday
+  
 - SANS
   350 Macbook Air, Microsoft Surface Pro 7 or $350 off with any 5 or 6 day course (till December 9, 2020)
   https://www.sans.org/specials/north-america/
